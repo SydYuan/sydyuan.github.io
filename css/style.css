@@ -79,7 +79,7 @@ h6 {
   color: rgba(0, 0, 0, 0.8);
   font-family: "Inconsolata", monospace;
   font-weight: 400;
-  margin: 0 0 30px 0;
+  margin: 10px 0 15px 0;
 }
 
 ::-webkit-selection {
@@ -1455,7 +1455,7 @@ input[type="text"] {
 }
 
 #footer {
-  padding: 6em 0;
+  padding: 1em 0;
   display: block;
   width: 100%;
   background: #000;
